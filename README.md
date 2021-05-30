@@ -8,7 +8,7 @@ Changed the order of the heading elements in a sequantial order.
 Rename the title to a more descriptive name.***
 
 
-***Worked on the link functionality.
+Worked on the link functionality.
 Arrenged the css selectors order.
-Added some comment to all section of css groups.***
+Added some comment to all section of css groups.
 

@@ -1,4 +1,4 @@
-# Horiseon Code Refactor
+# Refactor Horiseon Code 
 What's new:
 
 ## New semantic html elements.

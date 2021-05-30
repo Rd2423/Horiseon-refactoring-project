@@ -99,6 +99,17 @@ p {
 /* This is the ending point of the content paragraph css rule */
 
 /* This is the starting point of the online-reputation-management css rule */
+.online-reputation-management {
+    margin-bottom: 20px;
+    padding: 50px;
+    height: 300px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    background-color: #0072bb;
+    color: #ffffff;
+}
+
+
+
 .online-reputation-management img {
     max-height: 200px;
 }

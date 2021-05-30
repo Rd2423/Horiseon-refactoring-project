@@ -19,7 +19,6 @@ What's new:
 
 
 <img width="1792" alt="Screen Shot 2021-05-30 at 7 11 33 PM" src="https://user-images.githubusercontent.com/78246665/120123077-dcd43e00-c17a-11eb-9bc5-5c629537e2a7.png">
-![Screen Shot 2021-05-30 at 7 11 33 PM (2)](https://user-images.githubusercontent.com/78246665/120123084-e1005b80-c17a-11eb-880c-cfa9b6bfd4ed.png)
-![Screen Shot 2021-05-30 at 7 11 33 PM (3)](https://user-images.githubusercontent.com/78246665/120123087-e2318880-c17a-11eb-872d-b7f49a1f1e9a.png)
+
 
 
